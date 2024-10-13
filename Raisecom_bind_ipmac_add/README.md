@@ -8,7 +8,7 @@ Raisecom Technology Development Co., Ltd. Raisecom Intelligent Gateway
 /network/bind_ipmac_add.php
 ## Vulnerability details
 Raisecomda Technology Development Co., Ltd. (http://www.raisecom.com.cn/) Raisecomda is the industry's leading provider of optical network products and system solutions. The company was founded in 1999 and has been deeply involved in the communications industry for more than 20 years. It provides customers with information and communications infrastructure construction, as well as digital and intelligent transformation in the fields of all-optical networks, switching routing, cloud network security integration, wireless communications, and edge computing. Upgrade solutions and technical services. The company is committed to becoming a trustworthy partner for customers in their digital and intelligent transformation, and continues to create value for customers through continuous innovation. It has a wealth of successful cases in telecom operators, energy, transportation, government, finance, education, manufacturing and other industries.
-    Raisecom smart gateway has an unauthorized access vulnerability. An attacker could exploit this vulnerability to gain server privileges.
+<br/>     Raisecom smart gateway has an unauthorized access vulnerability. An attacker could exploit this vulnerability to gain server privileges.
    <br/> ![image](https://github.com/user-attachments/assets/1aa3547b-9a07-4637-827e-3db41494da2e)
 <br/>This vulnerability is the result of code audit, so Internet cases are not provided. Some source codes are provided. Please review them carefully. Thank you.
 <br/>Proof of assets: Fofa
@@ -16,7 +16,7 @@ Raisecomda Technology Development Co., Ltd. (http://www.raisecom.com.cn/) Raisec
 <br/>![image](https://github.com/user-attachments/assets/e59b69e2-f4c3-413f-a0ba-18cbcd31a02d)
 
 ## Vulnerability verify
-[(https://www.wondershare.cn/shop.html)]
+[(http://www.raisecom.com.cn/)]
 <br /> 1.Code analysis
 <br />Because the function.php authentication file is not included in bind_ipmac_add.php, the function point that adds a static address in the background of the system is directly accessed and operated without authorization.
 <br /> ![image](https://github.com/user-attachments/assets/0b8c5ecb-995d-4b7b-9687-869ae40856fc)
